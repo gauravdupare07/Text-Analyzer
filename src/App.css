@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+body.dark {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+body.dark .btn {
+    background: #444;
+    color: #fff;
+}
